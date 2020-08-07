@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-246,0)">
+        <g id="ComputerInformation" transform="matrix(1.22736,0,0,1.13777,-40.6142,-77.6916)">
+            <rect x="233.52" y="68.284" width="162.951" height="175.782" style="fill:none;"/>
+            <g transform="matrix(1.41251,0,0,1.31359,-129.938,-45.3497)">
+                <g transform="matrix(0.525645,0,0,0.17719,267.686,97.4367)">
+                    <rect x="11.095" y="26.18" width="157.816" height="157.816" style="fill:none;stroke:rgb(41,37,44);stroke-width:22.35px;"/>
+                </g>
+                <g transform="matrix(2.02885,0,0,2.1886,-405.997,0.766731)">
+                    <circle cx="364.678" cy="52.678" r="1.678" style="fill:rgb(41,37,44);"/>
+                </g>
+                <g transform="matrix(2.02885,0,0,2.1886,-397.035,0.766731)">
+                    <circle cx="364.678" cy="52.678" r="1.678" style="fill:rgb(41,37,44);"/>
+                </g>
+            </g>
+            <g transform="matrix(1.41251,0,0,1.31359,-129.938,3.94351)">
+                <g transform="matrix(0.525645,0,0,0.17719,267.686,97.4367)">
+                    <rect x="11.095" y="26.18" width="157.816" height="157.816" style="fill:none;stroke:rgb(41,37,44);stroke-width:22.35px;"/>
+                </g>
+                <g transform="matrix(2.02885,0,0,2.1886,-405.997,0.766731)">
+                    <circle cx="364.678" cy="52.678" r="1.678" style="fill:rgb(41,37,44);"/>
+                </g>
+                <g transform="matrix(2.02885,0,0,2.1886,-397.035,0.766731)">
+                    <circle cx="364.678" cy="52.678" r="1.678" style="fill:rgb(41,37,44);"/>
+                </g>
+            </g>
+            <g transform="matrix(1.41251,0,0,1.31359,-129.938,52.7958)">
+                <g transform="matrix(0.525645,0,0,0.17719,267.686,97.4367)">
+                    <rect x="11.095" y="26.18" width="157.816" height="157.816" style="fill:none;stroke:rgb(41,37,44);stroke-width:22.35px;"/>
+                </g>
+                <g transform="matrix(2.02885,0,0,2.1886,-405.997,0.766731)">
+                    <circle cx="364.678" cy="52.678" r="1.678" style="fill:rgb(41,37,44);"/>
+                </g>
+                <g transform="matrix(2.02885,0,0,2.1886,-397.035,0.766731)">
+                    <circle cx="364.678" cy="52.678" r="1.678" style="fill:rgb(41,37,44);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+.ProgressBar {
+    width: 100%;
+    background-color: #455d7a;
+    border-radius: 5px;
+  }
+  
+.Progress {
+    border-radius: 5px;
+    padding-right: 2px;
+    height: 20px;
+    line-height: 20px;
+    color: white;
+}
+
+.Progress p {
+    width: 100%;
+    text-align: end;
+    font-size: 15px;
+}
+.Progress[min-width~="50%"] {
+    background-color: orange;
+}

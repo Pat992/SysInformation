@@ -1,0 +1,9 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Body {
+    padding: 5px 10px;
+}

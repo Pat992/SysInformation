@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Dashboard" transform="matrix(1.22736,0,0,1.13777,-286.614,-77.6916)">
+        <rect x="233.52" y="68.284" width="162.951" height="175.782" style="fill:none;"/>
+        <g transform="matrix(0.814755,0,0,0.878909,241.665,63.8116)">
+            <rect x="11.095" y="26.18" width="157.816" height="157.816" style="fill:none;stroke:rgb(41,37,44);stroke-width:15px;"/>
+        </g>
+        <g transform="matrix(0.814755,0,0,0.878909,236.568,78.9331)">
+            <path d="M34.236,91.567L58.453,91.567L81.594,42.594L113.834,122.209L129.491,87.8L158.283,87.8" style="fill:none;stroke:rgb(41,37,44);stroke-width:15px;"/>
+        </g>
+    </g>
+</svg>

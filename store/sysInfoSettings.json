@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "settings": {
+            "opacity": 1,
+            "alwaysOnTop": false,
+            "screen": "0"
+        },
+        "windows": 3
+    }
+}
