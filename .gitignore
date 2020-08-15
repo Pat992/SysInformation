@@ -1,6 +1,7 @@
 # Build folder and files #
 ##########################
 release-builds/
+buildsb/
 
 # Development folders and files #
 #################################
